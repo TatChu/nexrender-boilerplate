@@ -38,3 +38,9 @@ jspm_packages
 
 # os crap
 .DS_Store
+
+# temp folder
+/temp/*/*
+
+# results folder
+/results/
